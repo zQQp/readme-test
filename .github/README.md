@@ -1,1 +1,2 @@
-README within `.github` directory
+# README within `.github` directory
+[Link to root `README`](/README.md)
